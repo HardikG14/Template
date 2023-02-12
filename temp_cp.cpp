@@ -68,7 +68,7 @@ void precal()
 }
 void solve()
 {
-	
+    
 }
 int main()
 {
